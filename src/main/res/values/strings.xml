@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoTrackerApp</string>
+    <string name="your_current_location">Current location:</string>
+    <string name="coordinates_hint">coordinates</string>
+    <string name="mark_two_points">Mark two points on the map to build a route</string>
+    <string name="mark_one_points">Mark the next point on the map</string>
+    <string name="mark_new_points">Route is built. Mark new points for a new route</string>
+    <string name="push_build_route_button">Push the button below</string>
+    <string name="start_coordinates">Start point:</string>
+    <string name="destination_coordinates">Finish point:</string>
+    <string name="button_name_build_a_route">BUILD A ROUTE</string>
+</resources>
